@@ -14,8 +14,6 @@ This project aims to predict home team wins in NBA games using classification mo
 - [Performance Analysis](#performance-analysis)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
